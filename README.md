@@ -9,21 +9,22 @@ Programming Questions for 2nd Semester
 07. Sum of two numbers using functions
 08. Largest of three numbers using functions
 09. Square of a number using functions
-10. Swap two numbers using call by value and reference
-11. Largest element of an array using functions
-12. Fibonacci-I
-13. Odd and even using recursion
-14. Fibonacci-II
-15. Middle element of an array
-16. Addition using pointers
-17. Sum of elements of an array using pointers
-18. Duplicate elements of an array
-19. Remove even position elements
-20. Student using structures
-21. Student using typedef
-22. Employee using arrays and structures
-23. Length of a string
-24. Copied string
-25. Reversing a string
-26. Dynamic Memory Allocation
-27. Copying content of one file to another file
+10. Swap two numbers using call by value
+11. Swap two numbers using call by reference
+12. Largest element of an array using functions
+13. Fibonacci-I
+14. Odd and even using recursion
+15. Fibonacci-II
+16. Middle element of an array
+17. Addition using pointers
+18. Sum of elements of an array using pointers
+19. Duplicate elements of an array
+20. Remove even position elements
+21. Student using structures
+22. Student using typedef
+23. Employee using arrays and structures
+24. Length of a string
+25. Copied string
+26. Reversing a string
+27. Dynamic Memory Allocation
+28. Copying content of one file to another file
